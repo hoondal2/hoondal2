@@ -6,8 +6,7 @@
 <br/>
 
 <div align="center"> 
-  <h1>:seedling: hoondal2 :seedling: </h1>## Waving <a id="waving">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+  <h1>:seedling: hoondal2 :seedling: </h1>
   <h4>:point_down: Contact Me! :point_down:</h4>
   <a href="mailto:hoondal02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hoondal02@gmail.com"/></a>
 </div>
