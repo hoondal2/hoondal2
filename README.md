@@ -20,9 +20,13 @@
 
 <br>
 
-<div align=center><h3>:boom: TECH STACKS :boom:</h3></div>
+<div align="center">
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoondal2&theme=vue&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
+  ### :boom: TECH STACKS :boom:
+  
 
-<span align=center> 
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
@@ -43,7 +47,4 @@
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">
    <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Apache Maven&logoColor=#C71A36">
-</span>
-<span>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoondal2&theme=vue&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-  </span>
+</div>
