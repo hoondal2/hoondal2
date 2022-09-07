@@ -3,11 +3,10 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoondal2%2Fhit-counter&count_bg=%23C2C2C2&title_bg=%23FAAB36&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <br/>
-<br/>
 
 <div align="center"> 
   <h1>:seedling: hoondal2 :seedling: </h1>
-  <h4>:point_down: Contact Me! :point_down:</h4>
+  <h4>:point_down: CONTACT ME! :point_down:</h4>
   <a href="mailto:hoondal02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hoondal02@gmail.com"/></a>
 </div>
 <br>
@@ -44,3 +43,7 @@
    <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Apache Maven&logoColor=#C71A36">
   <br>
 </div>
+
+<br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoondal2&show_icons=true&theme=vue)
